@@ -1,4 +1,8 @@
-## 6.6.1 (2024-04-11)
+## [6.6.2](https://github.com/WhiskeySockets/Baileys/compare/v6.6.1...v6.6.2) (2024-04-11)
+
+
+
+## [6.6.1](https://github.com/WhiskeySockets/Baileys/compare/07291d8ef69c886bd1aefb3b474a8b7553daebad...v6.6.1) (2024-04-11)
 
 
 ### Bug Fixes
