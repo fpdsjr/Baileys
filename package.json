@@ -1,5 +1,5 @@
 {
-  "name": "@whiskeysockets/baileys",
+  "name": "@atmus/baileys",
   "version": "6.6.2",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/fmedeiros95/Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:fmedeiros95/Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
